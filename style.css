@@ -1,0 +1,21 @@
+body{
+            background-color: #7AA874;
+
+        }
+        div {
+            background-color:#F7DB6A;
+            padding:10%;
+        }
+        h2, p {
+            color: #EBB02D;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .satu{
+            background-color: rgb(9, 255, 0);
+        }
+        #dua {
+            background-color: #D864A9;
+              }
+            .satu p {
+                color: black;
+            }
